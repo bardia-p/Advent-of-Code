@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b9f43b0-aa1b-4d62-b505-7e099614386b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Day 01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 01/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 01/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 01/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 02/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 02/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 02/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 03/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 03/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 03/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 04/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 04/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 04/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 05/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 05/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 05/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 05/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 05/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 05/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 05/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 06/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 06/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 06/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 06/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 06/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 07/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 07/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 07/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 07/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 07/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 07/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 08/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 08/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 08/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 08/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 08/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 08/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 09/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 09/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 09/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 09/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 09/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 09/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 09/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/part2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JtAx6FGcnkDYmhV6ZpnZLJZsS5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bardiaparmoun/Education/Coding/Advent of Code/2022",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9f43b0-aa1b-4d62-b505-7e099614386b" name="Changes" comment="" />
+      <created>1672887248615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672887248615</updated>
+      <workItem from="1672887249780" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2022$part1.coverage" NAME="part1 Coverage Results" MODIFIED="1672887304745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 01" />
+  </component>
+</project>
