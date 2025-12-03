@@ -66,5 +66,5 @@ What do you get if you add up all of the invalid IDs using these new rules?
 
 **Your puzzle answer was 17298174201.**
 
-***Both parts of this puzzle are complete! They provide two gold stars: \*\***
+***Both parts of this puzzle are complete! They provide two gold stars: \*\****
 
